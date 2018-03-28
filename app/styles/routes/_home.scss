@@ -1,0 +1,75 @@
+body{
+  overflow: hidden;
+  padding-right: 0px !important;
+  .rsm-marker {
+    outline: none;
+  }
+  .rsm-marker--hover {
+    cursor: pointer;
+  }
+  .card {
+    margin-top: 10px;
+    max-width: 80vw;
+    .title {
+      img {
+        float: left;
+        margin-right: 20px;
+        width: 41px;
+      }
+      .info {
+        float: left;
+        h1 {
+          font-size: 1em;
+          font-weight: bold;
+          width: calc( 30vw - 93px );
+          min-width: 227px;
+        }
+        h2 {
+          color: grey;
+          width: calc( 30vw - 93px );
+          min-width: 227px;
+        }
+      }
+    }
+    .description {
+      margin: 20px 0 20px 0;
+    }
+    .footer {
+      h1 {
+        font-size: 1em;
+        font-weight: bold;
+      }
+    }
+  }
+  .app-home {
+    .app-title {
+      font-size: 1.5em !important;
+      width: 100vw;
+      padding: 10px 0 10px 0;
+    }
+    @media (pointer: coarse) {
+      .right-view {
+        display: none;
+      }
+    }
+    
+    @media (pointer: fine) {
+      .right-view {
+        position: absolute;
+        right: 20px;
+        width: 30vw;
+        min-width: 320px;
+      }
+    }
+  }
+  @media (pointer: coarse) {
+    .left-drawer {
+      display: block;
+    }
+  }
+  @media (pointer: fine) {
+    .left-drawer {
+      display: none;
+    }
+  }
+}

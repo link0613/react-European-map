@@ -1,0 +1,100 @@
+[
+    {
+        "slug": "cork",
+        "name": "Cork",
+        "lat": 51.9034452,
+        "lon": -9.599923,
+        "label_position": "right"
+    },
+    {
+        "slug": "sheffield",
+        "name": "Sheffield",
+        "lat": 53.3958394,
+        "lon": -1.6395386,
+        "label_position": "right"
+    },
+    {
+        "slug": "oxford",
+        "name": "Oxford",
+        "lat": 51.7505018,
+        "lon": -1.3176275,
+        "label_position": "right"
+    },
+    {
+        "slug": "copenhagen",
+        "name": "Copenhagen",
+        "lat": 55.6713442,
+        "lon": 12.5237844,
+        "label_position": "left"
+    },
+    {
+        "slug": "malmo",
+        "name": "Malmö",
+        "lat": 55.5702456,
+        "lon": 12.9459329,
+        "label_position": "right"
+    },
+    {
+        "slug": "amsterdam",
+        "name": "Amsterdam",
+        "lat": 52.354775,
+        "lon": 4.7585404,
+        "label_position": "right"
+    },
+    {
+        "slug": "brussels",
+        "name": "Brussels",
+        "lat": 50.8550625,
+        "lon": 4.3053503,
+        "label_position": "right"
+    },
+    {
+        "slug": "reims",
+        "name": "Reims",
+        "lat": 49.253642,
+        "lon": 3.9850488,
+        "label_position": "right"
+    },
+    {
+        "slug": "strasbourg",
+        "name": "Strasbourg",
+        "lat": 48.5692059,
+        "lon": 7.6920543,
+        "label_position": "right"
+    },
+    {
+        "slug": "mulhouse",
+        "name": "Mulhouse",
+        "lat": 47.7527383,
+        "lon": 7.2906051,
+        "label_position": "right"
+    },
+    {
+        "slug": "nantes",
+        "name": "Nantes",
+        "lat": 47.2383172,
+        "lon": -1.6300959,
+        "label_position": "right"
+    },
+    {
+        "slug": "chateau-chinon",
+        "name": "Château-Chinon",
+        "lat": 47.0660639,
+        "lon": 3.9085565,
+        "label_position": "right"
+    },
+    {
+        "slug": "lille",
+        "name": "Lille",
+        "lat": 50.6311167,
+        "lon": 3.0121411,
+        "label_position": "bottom"
+    },
+    {
+        "slug": "marseille",
+        "name": "Marseille",
+        "lat": 43.280555,
+        "lon": 5.2404126,
+        "label_position": "right"
+    }
+]
